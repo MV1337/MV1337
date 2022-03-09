@@ -16,4 +16,4 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Apaixonado por tecnologia desde os meus 14 anos de idade, atualmente estudo Segurança da informação pela Uninove e faço cursos de desenvolvimento Web, com o foco maior para o Backend. 
+
