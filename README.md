@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vinicius-586709233/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_viniiciuss/)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MV1337&show_icons=true&theme=tokyonight)
+[![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MV1337)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MV1337)](https://github.com/anuraghazra/github-readme-stats)
 
