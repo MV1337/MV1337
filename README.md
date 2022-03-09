@@ -5,7 +5,7 @@
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MV1337&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MV1337&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MV1337)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que utilizo
