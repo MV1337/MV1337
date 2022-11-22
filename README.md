@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Matheus Vinicius ✌️💻
 <br/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vinicius-586709233/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_viniiciuss/)
+- 💻 Desenvolvedor Backend
+- 📕 Formado em TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO.
+- Mais em 👉🏻 [Portfólio](https://matheusmv.netlify.app/)
 
 <br/>
 <br/>
