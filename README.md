@@ -3,7 +3,6 @@
 
 - 💻 Desenvolvedor Backend
 - 📕 FORMAÇÃO - TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO.
-
 <br/>
 <br/>
 
