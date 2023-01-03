@@ -2,9 +2,8 @@
 <br/>
 
 - 💻 Desenvolvedor Backend
-- 📕 Formado em TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO.
-- Mais em 👉🏻 [Portfólio](https://matheusmv.netlify.app/)
-
+- 📕 FORMAÇÃO - TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO.
+- 
 <br/>
 <br/>
 
