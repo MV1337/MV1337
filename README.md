@@ -3,6 +3,7 @@
 
 - 💻 Desenvolvedor Backend
 - 📕 FORMAÇÃO - TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO.
+- 📧 CONTATO - matheusvinicius206@gmail.com
 <br/>
 <br/>
 
